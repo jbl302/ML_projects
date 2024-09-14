@@ -163,4 +163,5 @@ cython_debug/
 
 # folders
 artifact
+catboost_info
 
